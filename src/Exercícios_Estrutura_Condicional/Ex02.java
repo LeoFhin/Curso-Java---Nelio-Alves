@@ -9,7 +9,7 @@ public class Ex02 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Informe um Número: ");
-        int num = sc.nextInt();
+        float num = sc.nextInt();
 
         if (num % 2 == 0){
             System.out.println("Par!");
