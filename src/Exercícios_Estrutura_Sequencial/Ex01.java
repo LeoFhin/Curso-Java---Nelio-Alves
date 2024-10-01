@@ -1,4 +1,4 @@
-/*Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
+package Exercícios_Estrutura_Sequencial;/*Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
 mensagem explicativa, conforme exemplos*/
 
 public class Ex01 {
